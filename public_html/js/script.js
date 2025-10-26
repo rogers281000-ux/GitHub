@@ -19,7 +19,8 @@ const availableProducts = [
     { id: 10, name: "Antivirus Pro (1 año)", price: 49.99, icon: "fas fa-shield-alt", image: "img/antivirus_pro.jpg", stock: 50, category: "Software" },
     // Componentes
     { id: 11, name: "Memoria RAM 16GB DDR4", price: 65.00, icon: "fas fa-microchip", image: "img/memoria_ram.jpg", stock: 10, category: "Componentes" },
-    { id: 12, name: "SSD NVMe 1TB", price: 110.00, icon: "fas fa-hdd", image: "img/ssd_nvme.jpg", stock: 5, category: "Componentes" }
+    { id: 12, name: "SSD NVMe 1TB", price: 110.00, icon: "fas fa-hdd", image: "img/ssd_nvme.jpg", stock: 5, category: "Componentes" },
+    { id: 13, name: "GitHub Andrade", price: 17.50, icon: "fas fa-keyboard", image: "img/prueba.jpg", stock: 1, category: "Software" }
 ];
 
 let cart = [];
