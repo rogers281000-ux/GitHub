@@ -20,8 +20,8 @@ const availableProducts = [
     // Componentes
     { id: 11, name: "Memoria RAM 16GB DDR4", price: 65.00, icon: "fas fa-microchip", image: "img/memoria_ram.jpg", stock: 10, category: "Componentes" },
     { id: 12, name: "SSD NVMe 1TB", price: 110.00, icon: "fas fa-hdd", image: "img/ssd_nvme.jpg", stock: 5, category: "Componentes" },
-    { id: 13, name: "GitHub Andrade", price: 17.50, icon: "fas fa-keyboard", image: "img/prueba.jpg", stock: 1, category: "Software" }
-    { id: 13, name: "INTEL CORE i7", price: 74.00, icon: "fas fa-intel", image: "img/core_17.jpg", stock: 12, category: "Componentes" },
+    { id: 13, name: "GitHub Andrade", price: 17.50, icon: "fas fa-keyboard", image: "img/prueba.jpg", stock: 1, category: "Software" },
+    { id: 14, name: "INTEL CORE i7", price: 74.00, icon: "fas fa-intel", image: "img/core_17.jpg", stock: 12, category: "Componentes" },
     // Verificación commit GitHub Andrade
 
 ];
