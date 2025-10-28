@@ -18,7 +18,7 @@
 /* TIPOGRAFÍA Y FONDO DEL DOCUMENTO */
 body {
     font-family: 'Poppins', sans-serif; 
-    background-color: #252530(--color-page-background); 
+    background-color: var(--color-page-background); 
     color: var(--color-text-dark); 
     margin: 0;
     padding: 0;
