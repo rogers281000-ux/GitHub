@@ -20,7 +20,6 @@ const availableProducts = [
     // Componentes
     { id: 11, name: "Memoria RAM 16GB DDR4", price: 65.00, icon: "fas fa-microchip", image: "img/memoria_ram.jpg", stock: 10, category: "Componentes" },
     { id: 12, name: "SSD NVMe 1TB", price: 110.00, icon: "fas fa-hdd", image: "img/ssd_nvme.jpg", stock: 5, category: "Componentes" },
-    { id: 13, name: "INTEL CORE i7", price: 65.00, icon: "fas fa-i7", image: "img/core_i7.jpg", stock: 14, category: "Componentes" }
     // Verificación commit GitHub Andrade
 
 ];
