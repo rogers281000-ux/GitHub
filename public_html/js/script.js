@@ -9,6 +9,7 @@ const availableProducts = [
     { id: 3, name: "Monitor Curvo 27''", price: 320.00, icon: "fas fa-desktop", image: "img/monitor_curvo.jpg", stock: 0, category: "Gaming" },
     { id: 4, name: "Headset Gaming 7.1", price: 110.00, icon: "fas fa-headset", image: "img/headset_gaming.jpg", stock: 8, category: "Gaming" },
     { id: 5, name: "Mando Inalambrico", price: 125.50, icon: "fas fa-mando", image: "img/mando.jpg", stock: 17, category: "Gaming" },
+    { id: 6, name: "Nintendo Switch 2", price: 450.00, icon: "fas fa-nintendo", image: "img/nintendo.jpg", stock: 63, category: "Gaming" },
     // Móvil
     { id: 5, name: "Audífonos", price: 99.99, icon: "fas fa-headphones", image: "img/audifonos_inalambricos.jpg", stock: 12, category: "Móvil" },
     { id: 6, name: "Cargador Rápido ", price: 25.00, icon: "fas fa-plug", image: "img/cargador_rapido.jpg", stock: 45, category: "Móvil" },
